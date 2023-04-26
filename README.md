@@ -1,7 +1,7 @@
 <div align="center">
 
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Data%20Mining)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=#0969da&text=Data%20Mining)
   
 </div>
 <div>
