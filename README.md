@@ -11,14 +11,18 @@
   - LAB1
     - Develop web page crawler using Selenium.
     <br/>
-  - LAB2
-    - Explore the network of lawmakers who proposed legislative bills in 20s National Assembly.
-    - Analyze it using network analysis techniques learned in class such as <strong>small world, motif, graph role, community detection</strong>.
+  - LAB2-1
+    - Explore the **directed** network of COVID-19 patients.
+    -  Analyze it using network analysis techniques learned in class such as <strong>page rank, node centrality, community detection</strong>.
+    <br/>
+  - LAB2-2
+    - Explore the **undirected** network of lawmakers who proposed legislative bills in 20s National Assembly.
+    - Analyze it using network analysis techniques learned in class such as <strong>page rank, node centrality, community detection</strong>.
     - Interpret the network analysis results.
     <br/>
   - LAB3
     - Explore the network of football club dataset that networkx provides as a default.
-    - Analyze it using network analysis techniques learned in class such as <strong>small world, motif, graph role, community detection</strong>.
+    - Analyze it using network analysis techniques learned in class such as <strong>page rank, node centrality, community detection</strong>.
     - Interpret the network analysis results.
     <br/>
   - LAB4
